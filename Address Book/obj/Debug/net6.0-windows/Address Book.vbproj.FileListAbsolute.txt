@@ -1,0 +1,17 @@
+C:\Users\Prath\source\repos\Address Book\bin\Debug\net6.0-windows\Address Book.exe
+C:\Users\Prath\source\repos\Address Book\bin\Debug\net6.0-windows\Address Book.deps.json
+C:\Users\Prath\source\repos\Address Book\bin\Debug\net6.0-windows\Address Book.runtimeconfig.json
+C:\Users\Prath\source\repos\Address Book\bin\Debug\net6.0-windows\Address Book.dll
+C:\Users\Prath\source\repos\Address Book\bin\Debug\net6.0-windows\Address Book.pdb
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.vbproj.AssemblyReference.cache
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address_Book.Form1.resources
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.vbproj.GenerateResource.cache
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.AssemblyInfoInputs.cache
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.AssemblyInfo.vb
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.vbproj.CoreCompileInputs.cache
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.dll
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\refint\Address Book.dll
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.pdb
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\Address Book.genruntimeconfig.cache
+C:\Users\Prath\source\repos\Address Book\obj\Debug\net6.0-windows\ref\Address Book.dll
